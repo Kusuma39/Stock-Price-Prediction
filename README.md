@@ -1,0 +1,2 @@
+# Stock-Price-Prediction
+ I will create two very simple models to try to predict the stock market using machine learning and python. More specifically I will attempt to predict the price of apple stock. apple is considered to be one of the five most popular and best performing American technology companies, so I wanted to try to create a model or models to predict this companies future stock price. 
